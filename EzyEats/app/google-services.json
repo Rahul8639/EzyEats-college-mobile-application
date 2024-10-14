@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "724319768127",
+    "project_id": "ezyeats-2b960",
+    "storage_bucket": "ezyeats-2b960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724319768127:android:1153b6a7f52409ccc7728a",
+        "android_client_info": {
+          "package_name": "com.example.ezyeatsapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfnLmYovBd9x_sQjIBZvPbLwIuqPkD1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
