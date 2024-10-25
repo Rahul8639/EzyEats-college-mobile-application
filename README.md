@@ -1,4 +1,4 @@
-# EzyEats-food-ordering
+# EzyEats food ordering
 EzyEats is an Android food ordering platform created by our team, EzyEats has many features mentioned below and we have used Android Studio with JAVA and XML and we have used FIREBASE for db.
 
 ------------------------------> FIND MORE ON:- ("github.com/Rahul8639") <------------------------------
